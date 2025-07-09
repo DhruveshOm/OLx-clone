@@ -34,7 +34,7 @@ function View() {
           <p>&#x20B9; {postContent.price} </p>
           <span>{postContent.name}</span>
           <p>{postContent.category}</p>
-          <span>{postContent.createdAt}</span>
+          // <span>{postContent.createdAt}</span>
         </div>
         <div className="productDescription">
             <p className="p-bold">Product Description</p>
